@@ -1,3 +1,3 @@
-# Leetcode DSA Sheet (By Mohammed Fraz) Solutions
+# Leetcode DSA Sheet Solutions
 
 This repository contains solutions of Leetcode DSA Sheet in Java Language
