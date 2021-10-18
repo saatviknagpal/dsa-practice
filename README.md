@@ -1,3 +1,3 @@
 # Leetcode DSA Sheet Solutions
 
-This repository contains solutions of Leetcode DSA Sheet in Java Language
+This repository contains solutions of Leetcode DSA Sheet & Kunal Kushwaha's Assignment in Java Language
