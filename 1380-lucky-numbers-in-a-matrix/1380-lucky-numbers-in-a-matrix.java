@@ -16,7 +16,7 @@ class Solution {
                 }
             }
             max = min;
-            for (int j = 0; j < matrix.length; j++) {
+            for (int j = 0; j < row; j++) {
                 max = Math.max(max, matrix[j][minIndex]);
             }
             if (min == max) {
