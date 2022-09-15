@@ -26,14 +26,13 @@ class Solution {
             List<Integer> ans = new ArrayList<>();
             int count = q.size();
             for (int i = 0; i < count; i++) {
-                TreeNode node = q.poll();
-                ans.add(node.val);
-                if (node.left != null) {
-                    q.add(node.left);
+                if (q.peek().left != null) {
+                    q.add(q.peek().left);
                 }
-                if (node.right != null) {
-                    q.add(node.right);
+                if (q.peek().right != null) {
+                    q.add(q.peek().right);
                 }
+                ans.add(q.poll().val);
             }
             res.add(ans);
         }
