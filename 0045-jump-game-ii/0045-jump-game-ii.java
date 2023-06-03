@@ -1,14 +1,19 @@
 class Solution {
 
-    public int jump(int[] A) {
-	int jumps = 0, curEnd = 0, curFarthest = 0;
-	for (int i = 0; i < A.length - 1; i++) {
-		curFarthest = Math.max(curFarthest, i + A[i]);
-		if (i == curEnd) {
-			jumps++;
-			curEnd = curFarthest;
-		}
-	}
-	return jumps;
-}
+    public int jump(int[] nums) {
+        int jump = 0;
+        int pos = 0;
+        int des = 0;
+
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (i == pos && nums[pos] == 0 && pos == des) return -1;
+            des = Math.max(des, nums[i] + i);
+            if (pos == i) {
+                pos = des;
+                jump++;
+            }
+        }
+
+        return jump;
+    }
 }
