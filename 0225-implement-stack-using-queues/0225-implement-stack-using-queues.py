@@ -1,3 +1,11 @@
+#  Write code in this file
+# Post this file in Canvas
+# Cut and paste the whole file in Leetcode and run. All tests must pass
+# Note that you should do 4 times in 225, 235,622 and 641
+# TA will run this file 4 times in 225, 235,622 and 641
+# All tests must pass for 100
+########################################################### 
+
 class ListNode:
     #NOTHING CAN BE CHANGED HERE
     def __init__(self, val = 0, next= None):
@@ -33,17 +41,17 @@ class MyStack:
         self._s = Slist()
 
     def push(self, x: int) -> None:
-        new = ListNode(x)
-        if self._s._last:
-            new.next = self._s._first
-            self._s._first = new
+        newNode = ListNode(x)
+        if self._s._last != None:
+            newNode.next = self._s._first
+            self._s._first = newNode
         else:
-            self._s._first = self._s._last = new
+            self._s._first = self._s._last = newNode
             self._s._last.next = None
             
     def pop(self) -> int:
         if self._s._first:
-            if self._s._first!=self._s._last:
+            if self._s._first != self._s._last:
                 val = self._s._first.val
                 self._s._first = self._s._first.next
                 return val
@@ -60,6 +68,7 @@ class MyStack:
             return val
         else:
             return None
+        
     def empty(self) -> bool:
         return not self._s._last
 
