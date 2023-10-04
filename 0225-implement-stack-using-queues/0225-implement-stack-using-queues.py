@@ -7,7 +7,7 @@
 ########################################################### 
 
 class ListNode:
-    #NOTHING CAN BE CHANGED HERE
+        #NOTHING CAN BE CHANGED HERE
     def __init__(self, val = 0, next= None):
         self.val = val
         self.next = next
@@ -42,6 +42,7 @@ class MyStack:
 
     def push(self, x: int) -> None:
         newNode = ListNode(x)
+        self._s._len += 1
         if self._s._last != None:
             newNode.next = self._s._first
             self._s._first = newNode
@@ -50,7 +51,8 @@ class MyStack:
             self._s._last.next = None
             
     def pop(self) -> int:
-        if self._s._first:
+        self._s._len -= 1
+        if self._s._first != None:
             if self._s._first != self._s._last:
                 val = self._s._first.val
                 self._s._first = self._s._first.next
@@ -70,8 +72,7 @@ class MyStack:
             return None
         
     def empty(self) -> bool:
-        return not self._s._last
-
+        return self._s._len == 0
 
 # Your MyStack object will be instantiated and called as such:
 # obj = MyStack()
