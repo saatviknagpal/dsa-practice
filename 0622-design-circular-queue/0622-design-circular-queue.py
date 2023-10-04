@@ -41,7 +41,6 @@ class MyCircularQueue:
             self._s._len -= 1
             if self._s._first != self._s._last:
                 self._s._first = self._s._first.next
-                return True
             else:
                 self._s._first = self._s._last = None
             return True
