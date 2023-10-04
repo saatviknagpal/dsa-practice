@@ -31,7 +31,6 @@ class MyCircularQueue:
                 self._s._last = newNode
             else:
                 self._s._first = self._s._last = newNode
-                self._s._last.next = None
             return True
         else:
             return False
