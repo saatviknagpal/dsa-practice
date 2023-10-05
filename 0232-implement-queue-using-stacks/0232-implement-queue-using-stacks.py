@@ -104,14 +104,12 @@ class MyQueue:
     def pop(self) -> int:
         self._s._len -= 1
         if self._s._first != None:
+            val = self._s._first.val
             if self._s._first != self._s._last:
-                val = self._s._first.val
                 self._s._first = self._s._first.next
-                return val
             else:
-                val = self._s._first.val
                 self._s._first = self._s._last = None
-                return val
+            return val
         else:
             return 0
 
