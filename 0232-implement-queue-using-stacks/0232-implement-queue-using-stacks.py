@@ -28,7 +28,6 @@ class MyQueue:
             self._s._last = newNode
         else:
             self._s._first = self._s._last = newNode
-            self._s._last.next = None
 
 
     def pop(self) -> int:
