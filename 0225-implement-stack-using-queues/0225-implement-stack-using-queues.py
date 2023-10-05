@@ -1,3 +1,5 @@
+
+############################################################
 #  Write code in this file
 # Post this file in Canvas
 # Cut and paste the whole file in Leetcode and run. All tests must pass
@@ -7,7 +9,7 @@
 ########################################################### 
 
 class ListNode:
-        #NOTHING CAN BE CHANGED HERE
+    #NOTHING CAN BE CHANGED HERE
     def __init__(self, val = 0, next= None):
         self.val = val
         self.next = next
@@ -62,21 +64,10 @@ class MyStack:
                 self._s._first = self._s._last = None
                 return val
         else:
-            return None
+            return 0
 
     def top(self) -> int:
-        if self._s._first:
-            val = self._s._first.val
-            return val
-        else:
-            return None
-        
+        return self._s._first.val if self._s._first else 0
+
     def empty(self) -> bool:
         return self._s._len == 0
-
-# Your MyStack object will be instantiated and called as such:
-# obj = MyStack()
-# obj.push(x)
-# param_2 = obj.pop()
-# param_3 = obj.top()
-# param_4 = obj.empty()
