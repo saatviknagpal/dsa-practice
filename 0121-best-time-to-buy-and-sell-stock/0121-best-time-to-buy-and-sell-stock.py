@@ -20,9 +20,9 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         if False:
             [sellday, buyday, work] = self.nsquare_time_constant_space(prices)
-        if True:
-            [sellday, buyday, work] = self.nlogn_time_logn_space(prices)
         if False:
+            [sellday, buyday, work] = self.nlogn_time_logn_space(prices)
+        if True:
             [sellday, buyday, work] = self.ntime_constant_space(prices)
         p = self._compute_profit(prices, sellday, buyday)
         return p
