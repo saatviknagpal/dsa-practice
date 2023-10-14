@@ -61,10 +61,10 @@ class Solution:
     # All private function here. 
     # WRIYE CODE BELOW
 
-    def _nsquare_time_constant_space(self, a: List[int]) -> "[sellday,buyday,work]":
+    def _nsquare_time_constant_space(self, a: List[int]) -> List[int]:
         max_diff = 0;
         work = 0
-        ans = []
+        ans = [0, 0, 0]
         for i in range(0, len(a)):
             for j in range(i+1, len(a)):
                 work +=1
@@ -101,28 +101,22 @@ class Solution:
         result = find_max(0, len(a) - 1, work)
         return result[:-1]
         
-        # def findMaxProfit(a, start, end):
-        #     if start == end:
-        #         return start, end
-    
-        #     mid = (start + end) // 2
-        #     left_start, left_end = findMaxProfit(a, start, mid)
-        #     right_start, right_end = findMaxProfit(a, mid + 1, end)
-    
-        #     if a[left_end] - a[left_start] > a[right_end] - a[right_start]:
-        #         return left_start, left_end
-        #     else:
-        #         return right_start, right_end
+        
+    def _ntime_constant_space(self, a: List[int]) -> List[int]:
+        prof = 0
+        min_val = a[0]
+        work = 0
+        ans = [0,0,0]
+        for i in range(1, len(a)):
+            work+=1
+            min_val = min(min_val, a[i])
+            if a[i] > min_val:
+                if a[i]- min_val > prof:
+                    prof = a[i] - min_val
+                    ans = i,a.index(min_val), work 
 
-        # if not a:
-        #     return []
-    
-        # start, end = findMaxProfit(a, 0, len(a) - 1)
-        # return [start, end, 0]
+        return ans
         
-        
-    def _ntime_constant_space(self, a: List[int]) -> "[sellday,buyday,work]":
-        return [4,2,2]
 
     # You can have any number of private functions and variables
     # NOTHING CAN BE CHABGED BELOW
