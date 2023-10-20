@@ -56,12 +56,12 @@ class L0322:
     ############################################################
     def _alg(self):
         self._v = [float('inf')] * (self._n + 1)
-        self._k = [-1] * (self._n + 1)
+        self._k = [0] * (self._n + 1)
 
         self._v[0] = 0  
         for i in range(1, self._n + 1):
-            self._increment_work()
             for coin in self._d:
+                self._increment_work()
                 if i >= coin and self._v[i - coin] + 1 < self._v[i]:
                     self._v[i] = self._v[i - coin] + 1
                     self._k[i] = coin            
@@ -94,11 +94,18 @@ class L0322:
     def _get_solution1(self, p: int):     
         self._ans.clear()
         if self._v[p] == float('inf'):
+            print("Change cannot be given for", p, "cents")
             self._ans.clear()
             self._ans.append(-1)
             return
+        i = 1
+        sum = 0
         while p > 0:
+            sum += self._k[p]
+            print(i, ": Give coin ", self._k[p], "So far you have given = ",sum, end="")
             self._ans.append(self._k[p])
             p -= self._k[p]
+            print(". Remaining to give ", p)
+            i+=1
 
         
