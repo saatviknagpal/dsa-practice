@@ -14,33 +14,51 @@
  * }
  */
 class Solution {
-
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
         List<List<Integer>> res = new ArrayList<>();
+        Deque<TreeNode> q = new ArrayDeque<>();
+        
+        boolean rev = false;
+        
         if (root == null) return res;
-        boolean flag = false;
+
         q.add(root);
 
         while (!q.isEmpty()) {
-            LinkedList<Integer> ans = new LinkedList<>(); //initialized a linkedlist because addFirst & addLast method works in it only.
+            List<Integer> ans = new ArrayList<>();
             int count = q.size();
             for (int i = 0; i < count; i++) {
-                if (q.peek().left != null) {
-                    q.add(q.peek().left);
-                }
-                if (q.peek().right != null) {
-                    q.add(q.peek().right);
-                }
-                if (flag) {
-                    ans.addFirst(q.poll().val); //addFirst method adds the elements at the beginning of the list
+                if(!rev){
+                    TreeNode current = q.pollFirst();
+                    ans.add(current.val);
+                    
+                    if(current.left != null){
+                        q.addLast(current.left);
+                    }
+                    if(current.right != null){
+                        q.addLast(current.right);
+                    }
+                    
                 } else {
-                    ans.addLast(q.poll().val); //the addLast method adds the elements at the end
+                    TreeNode current = q.pollLast();
+                    ans.add(current.val);
+                    
+                    
+                    if(current.right != null){
+                        q.addFirst(current.right);
+                    }
+                    if(current.left != null){
+                        q.addFirst(current.left);
+                    }
                 }
+                
+               
             }
-            flag = !flag;
+            rev = !rev;
             res.add(ans);
         }
+        
         return res;
+
     }
 }
