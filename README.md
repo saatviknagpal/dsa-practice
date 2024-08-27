@@ -11,6 +11,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
 | [0228-summary-ranges](https://github.com/saatviknagpal/dsa-practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/saatviknagpal/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -45,6 +46,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
