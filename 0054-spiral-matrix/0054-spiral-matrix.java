@@ -1,47 +1,60 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        
-        int r = matrix.length;
-        int c = matrix[0].length;
-        
-        int row = 0, column = 0;
-        
-        List<Integer> ans = new ArrayList<Integer>();
-        
-        while(row<r && column<c){
-            
-            for(int i=column;i<c;i++){
-                
-                ans.add(matrix[row][i]);
-            }
-            row++;
-            
-            for(int i=row;i<r;i++){
-                
-                ans.add(matrix[i][c-1]);
-            }
-            c--;
-            
-            if(row<r){
-			
-                for(int i=c-1;i>=column;i--){
-                    
-                    ans.add(matrix[r-1][i]);
+        int n = matrix.length;
+        int m = matrix[0].length;
+
+        int i = 0;
+        int j = 0;
+
+        int up = 0;
+        int down = n - 1; 
+        int right = m - 1;
+        int left = 0; 
+
+        String direction = "right";
+
+        List<Integer> list = new ArrayList<>();
+
+        while(list.size() != n*m){
+            if(direction.equals("right")){
+                while(j <= right){
+                    list.add(matrix[i][j]);
+                    j++;
                 }
-                r--;
-            }
-            
-            if(column<c){
-                
-                for(int i=r-1;i>=row;i--){
-                    
-                    ans.add(matrix[i][column]);
+                j--; 
+                i++; 
+                up++;
+                direction = "down";
+            } else if(direction.equals("down")){
+                while(i <= down){
+                    list.add(matrix[i][j]);
+                    i++;
                 }
-                column++;
+                i--;
+                j--;
+                right--;
+                direction = "left";
+            } else if(direction.equals("left")){
+                while(j >= left){
+                    list.add(matrix[i][j]);
+                    j--;
+                }
+                j++; 
+                i--; 
+                down--;
+                direction = "up";
+            } else if(direction.equals("up")){
+                while(i >= up){
+                    list.add(matrix[i][j]);
+                    i--;
+                }
+                i++; 
+                j++; 
+                left++;
+                direction = "right";
             }
-            
         }
-        
-        return ans;
+
+        return list;
     }
 }
