@@ -11,6 +11,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/saatviknagpal/dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
 | [0228-summary-ranges](https://github.com/saatviknagpal/dsa-practice/tree/master/0228-summary-ranges) |
@@ -53,6 +54,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/saatviknagpal/dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
@@ -66,4 +68,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/saatviknagpal/dsa-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
