@@ -1,19 +1,38 @@
 class Solution {
-
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> res = new ArrayList<>();
-        if (strs.length == 0) return res;
-        HashMap<String, List<String>> map = new HashMap<>();
-        for (String s : strs) {
-            int[] hash = new int[26];
-            for (char c : s.toCharArray()) {
-                hash[c - 'a']++;
-            }
-            String key = new String(Arrays.toString(hash));
-            map.computeIfAbsent(key, k -> new ArrayList<>());
-            map.get(key).add(s);
+        List<List<String>> result = new ArrayList<>();
+
+        String[] sortedStrs = new String[strs.length];
+
+        for (int i = 0; i < strs.length; i++) {
+            char[] arr = strs[i].toCharArray();
+            Arrays.sort(arr);
+            String s = String.valueOf(arr);
+            sortedStrs[i] = s;
         }
-        res.addAll(map.values());
-        return res;
+
+        HashMap<String, List<Integer>> map = new HashMap<>();
+
+        for (int i = 0; i < strs.length; i++) {
+            if (map.containsKey(sortedStrs[i])) {
+                map.get(sortedStrs[i]).add(i);
+            } else {
+                List<Integer> list = new ArrayList<>();
+                list.add(i);
+                map.put(sortedStrs[i], list);
+            }
+        }
+
+        for (Map.Entry<String, List<Integer>> entry : map.entrySet()) {
+            String key = entry.getKey();
+            List<Integer> value = entry.getValue();
+            List<String> ans = new ArrayList<>();
+            for(int i : value){
+                ans.add(strs[i]);
+            }
+            result.add(ans);
+        }
+
+        return result;
     }
 }
