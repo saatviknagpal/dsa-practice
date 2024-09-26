@@ -32,6 +32,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
@@ -49,6 +50,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
@@ -99,6 +101,7 @@ This repository contains solutions of various DSA Questions.
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
