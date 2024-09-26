@@ -23,6 +23,7 @@ This repository contains solutions of various DSA Questions.
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
+| [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saatviknagpal/dsa-practice/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
@@ -79,6 +80,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saatviknagpal/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Stack
 |  |
@@ -109,6 +112,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
