@@ -42,6 +42,7 @@ This repository contains solutions of various DSA Questions.
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains solutions of various DSA Questions.
 | [1351-replace-the-substring-for-balanced-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This repository contains solutions of various DSA Questions.
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
 |  |
 | ------- |
