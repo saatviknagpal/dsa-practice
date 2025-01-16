@@ -17,6 +17,7 @@ This repository contains solutions of various DSA Questions.
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/saatviknagpal/dsa-practice/tree/master/0228-summary-ranges) |
@@ -38,6 +39,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
@@ -59,6 +61,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -161,6 +164,7 @@ This repository contains solutions of various DSA Questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 ## Counting Sort
 |  |
@@ -178,6 +182,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0040-combination-sum-ii) |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -190,4 +195,12 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
