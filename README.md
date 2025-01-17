@@ -78,6 +78,7 @@ This repository contains solutions of various DSA Questions.
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -188,6 +190,7 @@ This repository contains solutions of various DSA Questions.
 | [0040-combination-sum-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Linked List
 |  |
 | ------- |
@@ -208,4 +211,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
