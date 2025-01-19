@@ -24,6 +24,7 @@ This repository contains solutions of various DSA Questions.
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/saatviknagpal/dsa-practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/saatviknagpal/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
@@ -44,6 +45,7 @@ This repository contains solutions of various DSA Questions.
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
@@ -128,6 +130,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0048-rotate-image](https://github.com/saatviknagpal/dsa-practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +168,7 @@ This repository contains solutions of various DSA Questions.
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
@@ -228,4 +232,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
