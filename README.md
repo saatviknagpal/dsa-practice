@@ -184,6 +184,7 @@ This repository contains solutions of various DSA Questions.
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Counting Sort
 |  |
 | ------- |
