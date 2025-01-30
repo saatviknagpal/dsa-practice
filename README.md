@@ -45,6 +45,7 @@ This repository contains solutions of various DSA Questions.
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saatviknagpal/dsa-practice/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ This repository contains solutions of various DSA Questions.
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saatviknagpal/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This repository contains solutions of various DSA Questions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
