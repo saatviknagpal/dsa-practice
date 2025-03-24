@@ -19,6 +19,7 @@ This repository contains solutions of various DSA Questions.
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/saatviknagpal/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
@@ -107,6 +108,7 @@ This repository contains solutions of various DSA Questions.
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
@@ -130,6 +132,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
