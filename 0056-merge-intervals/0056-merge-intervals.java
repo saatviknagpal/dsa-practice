@@ -1,18 +1,42 @@
-public class Solution {
+class Solution {
     public int[][] merge(int[][] intervals) {
-        if (intervals.length == 0) return new int[0][0];
+        Arrays.sort(intervals, Comparator.comparingInt(b -> b[0]));   
+        // List<List<Integer>> list = new ArrayList<>();
 
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        // for(int i = 0; i < a.length; i++){
+        //     List<Integer> temp = new ArrayList<>();
+        //     for(int j = 0; j < a[0].length; j++){
+        //         if(a[i][1] > a[i+1][0]){
+        //             a[i][1] = max(a[i+1][1], a[i][1];
+        //             temp.add(a[i][1]);
+        //             i++;
+        //         } else {
+        //             temp.add(a[i][j]);
+        //         }
+        //     }
+        //     list.add(temp);
+        // }
 
-        List<int[]> merged = new ArrayList<>();
-        for (int[] interval : intervals) {
-            if (merged.isEmpty() || merged.get(merged.size() - 1)[1] < interval[0]) {
-                merged.add(interval);
+        // int[][] array2D = new int[a.length][2];
+        
+        // for (int i = 0; i < a.length; i++) {
+        //     for (int j = 0; j < 2; j++) {
+        //         array2D[i][j] = list.get(i).get(j);
+        //     }
+        // }
+
+        int n = intervals.length;
+        int[][] result = new int[n][2];
+        int index = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (index == 0 || result[index - 1][1] < intervals[i][0]) {
+                result[index++] = intervals[i];
             } else {
-                merged.get(merged.size() - 1)[1] = Math.max(merged.get(merged.size() - 1)[1], interval[1]);
+                result[index - 1][1] = Math.max(result[index - 1][1], intervals[i][1]);
             }
         }
 
-        return merged.toArray(new int[merged.size()][]);
+        return Arrays.copyOfRange(result, 0, index);
     }
 }
