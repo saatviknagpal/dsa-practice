@@ -136,6 +136,7 @@ This repository contains solutions of various DSA Questions.
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
@@ -248,6 +249,7 @@ This repository contains solutions of various DSA Questions.
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
