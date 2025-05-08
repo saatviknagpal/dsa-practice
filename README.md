@@ -46,6 +46,7 @@ This repository contains solutions of various DSA Questions.
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saatviknagpal/dsa-practice/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
@@ -66,6 +67,7 @@ This repository contains solutions of various DSA Questions.
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
+| [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -154,6 +156,7 @@ This repository contains solutions of various DSA Questions.
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
+| [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +208,7 @@ This repository contains solutions of various DSA Questions.
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
+| [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Segment Tree
 |  |
 | ------- |
