@@ -65,6 +65,7 @@ This repository contains solutions of various DSA Questions.
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
+| [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
@@ -91,6 +92,7 @@ This repository contains solutions of various DSA Questions.
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -195,6 +197,7 @@ This repository contains solutions of various DSA Questions.
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
+| [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 ## Heap (Priority Queue)
@@ -208,6 +211,7 @@ This repository contains solutions of various DSA Questions.
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
+| [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Segment Tree
 |  |
