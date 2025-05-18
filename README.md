@@ -18,6 +18,7 @@ This repository contains solutions of various DSA Questions.
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/saatviknagpal/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
@@ -87,6 +88,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
@@ -156,6 +158,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
