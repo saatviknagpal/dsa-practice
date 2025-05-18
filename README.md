@@ -50,6 +50,7 @@ This repository contains solutions of various DSA Questions.
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saatviknagpal/dsa-practice/tree/master/2350-find-closest-number-to-zero) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saatviknagpal/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -231,6 +232,7 @@ This repository contains solutions of various DSA Questions.
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 ## Counting Sort
 |  |
 | ------- |
