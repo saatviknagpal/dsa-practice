@@ -47,6 +47,7 @@ This repository contains solutions of various DSA Questions.
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/saatviknagpal/dsa-practice/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saatviknagpal/dsa-practice/tree/master/2350-find-closest-number-to-zero) |
@@ -162,6 +163,7 @@ This repository contains solutions of various DSA Questions.
 | [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/saatviknagpal/dsa-practice/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
@@ -209,6 +211,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/saatviknagpal/dsa-practice/tree/master/1928-number-of-orders-in-the-backlog) |
 ## Design
 |  |
 | ------- |
