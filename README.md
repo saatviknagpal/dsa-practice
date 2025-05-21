@@ -33,6 +33,7 @@ This repository contains solutions of various DSA Questions.
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
@@ -94,6 +95,7 @@ This repository contains solutions of various DSA Questions.
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
@@ -108,6 +110,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -246,6 +249,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saatviknagpal/dsa-practice/tree/master/0820-find-eventual-safe-states) |
@@ -255,6 +259,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 ## Backtracking
@@ -288,6 +293,7 @@ This repository contains solutions of various DSA Questions.
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saatviknagpal/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 ## Divide and Conquer
@@ -312,4 +318,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
