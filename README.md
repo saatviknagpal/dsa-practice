@@ -39,6 +39,7 @@ This repository contains solutions of various DSA Questions.
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -68,6 +69,7 @@ This repository contains solutions of various DSA Questions.
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
@@ -98,6 +100,7 @@ This repository contains solutions of various DSA Questions.
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -112,6 +115,7 @@ This repository contains solutions of various DSA Questions.
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saatviknagpal/dsa-practice/tree/master/0820-find-eventual-safe-states) |
@@ -126,6 +130,7 @@ This repository contains solutions of various DSA Questions.
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -251,6 +256,7 @@ This repository contains solutions of various DSA Questions.
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saatviknagpal/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
@@ -261,6 +267,7 @@ This repository contains solutions of various DSA Questions.
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 ## Backtracking
 |  |
