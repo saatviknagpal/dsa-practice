@@ -83,6 +83,7 @@ This repository contains solutions of various DSA Questions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saatviknagpal/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saatviknagpal/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository contains solutions of various DSA Questions.
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saatviknagpal/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This repository contains solutions of various DSA Questions.
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saatviknagpal/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Breadth-First Search
 |  |
 | ------- |
