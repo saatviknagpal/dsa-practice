@@ -169,6 +169,7 @@ This repository contains solutions of various DSA Questions.
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
@@ -219,6 +220,7 @@ This repository contains solutions of various DSA Questions.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
@@ -308,6 +310,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -316,6 +319,7 @@ This repository contains solutions of various DSA Questions.
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 ## Trie
 |  |
