@@ -120,6 +120,7 @@ This repository contains solutions of various DSA Questions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saatviknagpal/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ This repository contains solutions of various DSA Questions.
 | [0238-product-of-array-except-self](https://github.com/saatviknagpal/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ This repository contains solutions of various DSA Questions.
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -380,4 +383,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
