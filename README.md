@@ -200,6 +200,7 @@ This repository contains solutions of various DSA Questions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/saatviknagpal/dsa-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
@@ -210,6 +211,7 @@ This repository contains solutions of various DSA Questions.
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saatviknagpal/dsa-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/saatviknagpal/dsa-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saatviknagpal/dsa-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
 |  |
