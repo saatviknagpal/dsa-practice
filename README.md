@@ -13,6 +13,7 @@ This repository contains solutions of various DSA Questions.
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saatviknagpal/dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
@@ -171,6 +172,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -231,6 +233,7 @@ This repository contains solutions of various DSA Questions.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
@@ -278,6 +281,7 @@ This repository contains solutions of various DSA Questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -392,6 +396,7 @@ This repository contains solutions of various DSA Questions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Enumeration
 |  |
