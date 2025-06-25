@@ -24,6 +24,7 @@ This repository contains solutions of various DSA Questions.
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saatviknagpal/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/saatviknagpal/dsa-practice/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
@@ -283,6 +284,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saatviknagpal/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
