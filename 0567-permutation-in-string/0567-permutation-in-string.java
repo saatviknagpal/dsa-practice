@@ -1,19 +1,28 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+        int[] freq = new int[26];
 
-        int m = s1.length(), map[] = new int[26];        
-        for (int i = 0; i < m; i++) map[s1.charAt(i)-'a']--;
+        for(char x : s1.toCharArray()){
+            freq[x-'a']++;
+        }
         
-        for (int i = 0, j = 0, len = 0; j < s2.length(); j++) {
-            int k = s2.charAt(j)-'a';
-            map[k]++;
-            
-            while (map[k] > 0) {                
-                map[s2.charAt(i++)-'a']--;                    
-            }    
-                                                
-            if (j-i+1 == m) return true;            
-        }        
+        int i = 0;
+        int j = s1.length()-1;
+
+        while (j < s2.length()) {
+            int[] temp = freq.clone(); 
+            int k = i;
+            while (k <= j) {
+                temp[s2.charAt(k) - 'a']--;
+                if (temp[s2.charAt(k) - 'a'] < 0) break; 
+                k++;
+            }
+            if (k > j) return true;
+            i++;
+            j++;
+        }
+
         return false;
     }
 }
+
