@@ -1,34 +1,35 @@
 class Solution {
-
-    public int[] maxSlidingWindow(int[] arr, int k) {
-        Stack<Integer> st = new Stack<>();
-        int[] nge = new int[arr.length];
-        st.push(arr.length - 1);
-        nge[arr.length - 1] = arr.length;
-
-        for (int i = arr.length - 2; i >= 0; i--) {
-            while (!st.isEmpty() && arr[i] >= arr[st.peek()]) {
-                st.pop();
-            }
-
-            if (st.size() == 0) {
-                nge[i] = arr.length;
-            } else {
-                nge[i] = st.peek();
-            }
-            st.push(i);
-        }
+    public int[] maxSlidingWindow(int[] nums, int k) {
         int j = 0;
-        int[] result = new int[arr.length-k + 1];
-        for (int i = 0; i <= arr.length - k; i++) {
-            if (j < i) {
-                j = i;
+        int max = Integer.MIN_VALUE;
+
+        List<Integer> result = new ArrayList<>();
+        Deque<Integer> deque = new ArrayDeque<>();
+
+        while (j < nums.length) {
+            while (!deque.isEmpty() && nums[deque.peekLast()] < nums[j]) {
+                deque.pollLast();
             }
-            while (nge[j] < i + k) {
-                j = nge[j];
+
+            deque.offerLast(j);
+            
+            if (deque.peekFirst() <= j - k) {
+                deque.pollFirst();
             }
-            result[i] = arr[j];
+
+            if (j >= k - 1) {
+                result.add(nums[deque.peekFirst()]); 
+            }
+
+            j++;
+
         }
-        return result;
+
+        int[] ans = new int[result.size()];
+        for (int x = 0; x < result.size(); x++) {
+            ans[x] = result.get(x);
+        }
+
+        return ans;
     }
 }
