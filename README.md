@@ -73,6 +73,7 @@ This repository contains solutions of various DSA Questions.
 | [0036-valid-sudoku](https://github.com/saatviknagpal/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saatviknagpal/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +112,7 @@ This repository contains solutions of various DSA Questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/saatviknagpal/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
@@ -225,6 +227,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saatviknagpal/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
