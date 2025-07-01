@@ -1,30 +1,38 @@
-import java.util.Stack;
-
-public class Solution {
+class Solution {
     public int evalRPN(String[] tokens) {
-        int a,b;
-		Stack<Integer> S = new Stack<Integer>();
-		for (String s : tokens) {
-			if(s.equals("+")) {
-				S.add(S.pop()+S.pop());
-			}
-			else if(s.equals("/")) {
-				b = S.pop();
-				a = S.pop();
-				S.add(a / b);
-			}
-			else if(s.equals("*")) {
-				S.add(S.pop() * S.pop());
-			}
-			else if(s.equals("-")) {
-				b = S.pop();
-				a = S.pop();
-				S.add(a - b);
-			}
-			else {
-				S.add(Integer.parseInt(s));
-			}
-		}	
-		return S.pop();
-	}
+        Stack<String> st = new Stack<>();
+        st.push(tokens[0]);
+        int sum = 0;
+        int i = 1;
+        while(i < tokens.length){
+            st.push(tokens[i]);
+            if(st.peek().equals("+")){
+                st.pop();
+                int x = Integer.parseInt(st.pop());
+                int y  = Integer.parseInt(st.pop());
+                sum = x + y;
+                st.push(Integer.toString(sum));
+            } else if (st.peek().equals("-")){
+                st.pop();
+                int x = Integer.parseInt(st.pop());
+                int y = Integer.parseInt(st.pop());
+                sum = y - x;
+                st.push(Integer.toString(sum));
+            } else if(st.peek().equals("*")){
+                st.pop();
+                int x = Integer.parseInt(st.pop());
+                int y = Integer.parseInt(st.pop());
+                sum = x * y;
+                st.push(Integer.toString(sum));
+            } else if(st.peek().equals("/")){
+                st.pop();
+                int x = Integer.parseInt(st.pop());
+                int y = Integer.parseInt(st.pop());
+                sum = y/x;
+                st.push(Integer.toString(sum));
+            }
+            i++;
+        }
+        return Integer.parseInt(st.peek());
+    }
 }
