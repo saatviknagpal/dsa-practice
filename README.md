@@ -111,6 +111,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saatviknagpal/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/saatviknagpal/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0076-minimum-window-substring) |
@@ -291,6 +292,7 @@ This repository contains solutions of various DSA Questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saatviknagpal/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saatviknagpal/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -329,6 +331,7 @@ This repository contains solutions of various DSA Questions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saatviknagpal/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
