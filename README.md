@@ -21,6 +21,7 @@ This repository contains solutions of various DSA Questions.
 | [0056-merge-intervals](https://github.com/saatviknagpal/dsa-practice/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/saatviknagpal/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -172,6 +173,7 @@ This repository contains solutions of various DSA Questions.
 | [0048-rotate-image](https://github.com/saatviknagpal/dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saatviknagpal/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
@@ -259,6 +261,7 @@ This repository contains solutions of various DSA Questions.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saatviknagpal/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
