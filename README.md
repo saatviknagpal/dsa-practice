@@ -52,6 +52,7 @@ This repository contains solutions of various DSA Questions.
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/saatviknagpal/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/saatviknagpal/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saatviknagpal/dsa-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
@@ -266,6 +267,7 @@ This repository contains solutions of various DSA Questions.
 | [0209-minimum-size-subarray-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0729-my-calendar-i) |
+| [0907-koko-eating-bananas](https://github.com/saatviknagpal/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
