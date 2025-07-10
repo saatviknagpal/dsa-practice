@@ -1,27 +1,26 @@
 class TimeMap {
-    private Map<String, List<Pair>> map;
+
+    private Map<String, List<Pair<Integer, String>>> keyStore;
+
 
     public TimeMap() {
-        map = new HashMap<>();
+        keyStore = new HashMap<>();
     }
-
+    
     public void set(String key, String value, int timestamp) {
-        map.putIfAbsent(key, new ArrayList<>());
-        map.get(key).add(new Pair(timestamp, value));
+        keyStore.computeIfAbsent(key, k -> new ArrayList<>()).add(new Pair<>(timestamp, value));
+   
     }
-
+    
     public String get(String key, int timestamp) {
-        if (!map.containsKey(key)) return "";
-
-        List<Pair> list = map.get(key);
-        int left = 0, right = list.size() - 1;
+        List<Pair<Integer, String>> values = keyStore.getOrDefault(key, new ArrayList<>());
+        int left = 0, right = values.size() - 1;
         String result = "";
 
-        // Binary search for timestamp ≤ input
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (list.get(mid).timestamp <= timestamp) {
-                result = list.get(mid).value; // candidate
+            if (values.get(mid).getKey() <= timestamp) {
+                result = values.get(mid).getValue();
                 left = mid + 1;
             } else {
                 right = mid - 1;
@@ -31,13 +30,21 @@ class TimeMap {
         return result;
     }
 
-    private static class Pair {
-        int timestamp;
-        String value;
+    private static class Pair<K, V> {
+        private final K key;
+        private final V value;
 
-        Pair(int t, String v) {
-            timestamp = t;
-            value = v;
+        public Pair(K key, V value) {
+            this.key = key;
+            this.value = value;
+        }
+
+        public K getKey() {
+            return key;
+        }
+
+        public V getValue() {
+            return value;
         }
     }
 }
