@@ -355,6 +355,7 @@ This repository contains solutions of various DSA Questions.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0206-reverse-linked-list) |
@@ -366,6 +367,7 @@ This repository contains solutions of various DSA Questions.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
