@@ -357,6 +357,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -366,6 +367,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 ## Trie
 |  |
