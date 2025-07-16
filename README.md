@@ -187,6 +187,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -356,6 +357,7 @@ This repository contains solutions of various DSA Questions.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
