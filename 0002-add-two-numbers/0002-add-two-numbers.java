@@ -20,12 +20,9 @@ class Solution {
             int y = (l2 != null ? l2.val : 0);
             int sum = x + y + carry;
             ListNode newNode = new ListNode();
-            if (sum >= 10) {
-                int rem = sum % 10;
-                newNode.val = rem;
-            } else {
-                newNode.val = sum;
-            }
+            int rem = sum % 10;
+            newNode.val = rem;
+
             carry = sum / 10;
 
             if (l1 != null)
