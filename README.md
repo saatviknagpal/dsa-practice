@@ -105,6 +105,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -112,6 +113,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -146,6 +148,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
@@ -331,6 +334,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
