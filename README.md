@@ -85,6 +85,7 @@ This repository contains solutions of various DSA Questions.
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/saatviknagpal/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/saatviknagpal/dsa-practice/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -296,6 +297,7 @@ This repository contains solutions of various DSA Questions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saatviknagpal/dsa-practice/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
@@ -369,12 +371,14 @@ This repository contains solutions of various DSA Questions.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/saatviknagpal/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/saatviknagpal/dsa-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saatviknagpal/dsa-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saatviknagpal/dsa-practice/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
