@@ -289,6 +289,7 @@ This repository contains solutions of various DSA Questions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/saatviknagpal/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
@@ -368,6 +369,7 @@ This repository contains solutions of various DSA Questions.
 | [0002-add-two-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/saatviknagpal/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0143-reorder-list) |
@@ -408,6 +410,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saatviknagpal/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Randomized
@@ -463,4 +466,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saatviknagpal/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saatviknagpal/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
