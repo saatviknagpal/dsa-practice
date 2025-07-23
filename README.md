@@ -105,6 +105,7 @@ This repository contains solutions of various DSA Questions.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -113,6 +114,7 @@ This repository contains solutions of various DSA Questions.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -148,6 +150,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0386-lexicographical-numbers) |
@@ -336,6 +339,7 @@ This repository contains solutions of various DSA Questions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
