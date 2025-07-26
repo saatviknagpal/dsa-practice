@@ -91,6 +91,7 @@ This repository contains solutions of various DSA Questions.
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
@@ -137,6 +138,7 @@ This repository contains solutions of various DSA Questions.
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/saatviknagpal/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saatviknagpal/dsa-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
@@ -176,6 +178,7 @@ This repository contains solutions of various DSA Questions.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -242,6 +245,7 @@ This repository contains solutions of various DSA Questions.
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/saatviknagpal/dsa-practice/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saatviknagpal/dsa-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -299,6 +303,7 @@ This repository contains solutions of various DSA Questions.
 | [0239-sliding-window-maximum](https://github.com/saatviknagpal/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/saatviknagpal/dsa-practice/tree/master/1928-number-of-orders-in-the-backlog) |
 ## Design
@@ -336,6 +341,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saatviknagpal/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
