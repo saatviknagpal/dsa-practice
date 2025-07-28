@@ -106,6 +106,7 @@ This repository contains solutions of various DSA Questions.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saatviknagpal/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -123,6 +124,7 @@ This repository contains solutions of various DSA Questions.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saatviknagpal/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -168,6 +170,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0110-balanced-binary-tree) |
@@ -476,6 +479,7 @@ This repository contains solutions of various DSA Questions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
