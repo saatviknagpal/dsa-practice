@@ -14,22 +14,12 @@
  * }
  */
 class Solution {
-
     public boolean isValidBST(TreeNode root) {
-        return isValidBSTHelper(root, Long.MIN_VALUE, Long.MAX_VALUE);
-    }
-
-    private boolean isValidBSTHelper(TreeNode root, long lowerBound, long upperBound) {
-        if (root == null) {
+        
+        if(root.val > root.left.val && root.val < root.right.val){
             return true;
         }
 
-        int val = root.val;
-
-        if (val <= lowerBound || val >= upperBound) {
-            return false;
-        }
-
-        return isValidBSTHelper(root.left, lowerBound, val) && isValidBSTHelper(root.right, val, upperBound);
+        return false;
     }
 }
