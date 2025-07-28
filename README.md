@@ -117,6 +117,7 @@ This repository contains solutions of various DSA Questions.
 | [0543-diameter-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -133,6 +134,7 @@ This repository contains solutions of various DSA Questions.
 | [0543-diameter-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saatviknagpal/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
@@ -183,6 +185,7 @@ This repository contains solutions of various DSA Questions.
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saatviknagpal/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saatviknagpal/dsa-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sorting
 |  |
@@ -377,6 +380,7 @@ This repository contains solutions of various DSA Questions.
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saatviknagpal/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
