@@ -14,27 +14,29 @@
  * }
  */
 class Solution {
-    int count = 0;
+    private int count = 0;
+    private int result = 0;
+    private int target;
 
     public int kthSmallest(TreeNode root, int k) {
-        return helper(root, k).val;
+        target = k;
+        inorder(root);
+        return result;
     }
 
-    public TreeNode helper(TreeNode root, int k) {
-        if (root == null) return null;
-
-        TreeNode left = helper(root.left, k);
-
-        if (left != null) {
-            return left;
-        }
+    public void inorder(TreeNode root) {
+        if (root == null) return;
+        inorder(root.left);
 
         count++;
+        if (count == target){
+            result = root.val;
 
-        if (count == k) {
-            return root;
+            return;
         }
 
-        return helper(root.right, k);
+        inorder(root.right);
+
     }
+
 }
