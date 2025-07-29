@@ -114,6 +114,7 @@ This repository contains solutions of various DSA Questions.
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/saatviknagpal/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saatviknagpal/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0572-subtree-of-another-tree) |
@@ -132,6 +133,7 @@ This repository contains solutions of various DSA Questions.
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/saatviknagpal/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saatviknagpal/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0572-subtree-of-another-tree) |
@@ -177,6 +179,7 @@ This repository contains solutions of various DSA Questions.
 | [0199-binary-tree-right-side-view](https://github.com/saatviknagpal/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/saatviknagpal/dsa-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saatviknagpal/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
@@ -481,6 +484,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/saatviknagpal/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saatviknagpal/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
