@@ -49,6 +49,7 @@ This repository contains solutions of various DSA Questions.
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0682-baseball-game) |
@@ -95,6 +96,7 @@ This repository contains solutions of various DSA Questions.
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
@@ -213,6 +215,7 @@ This repository contains solutions of various DSA Questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
@@ -284,6 +287,7 @@ This repository contains solutions of various DSA Questions.
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/saatviknagpal/dsa-practice/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saatviknagpal/dsa-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
@@ -342,6 +346,7 @@ This repository contains solutions of various DSA Questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/saatviknagpal/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -384,6 +389,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
