@@ -57,6 +57,7 @@ This repository contains solutions of various DSA Questions.
 | [0739-daily-temperatures](https://github.com/saatviknagpal/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/saatviknagpal/dsa-practice/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saatviknagpal/dsa-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
@@ -213,6 +214,7 @@ This repository contains solutions of various DSA Questions.
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/saatviknagpal/dsa-practice/tree/master/1095-two-city-scheduling) |
 | [1217-relative-sort-array](https://github.com/saatviknagpal/dsa-practice/tree/master/1217-relative-sort-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -270,6 +272,7 @@ This repository contains solutions of various DSA Questions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saatviknagpal/dsa-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saatviknagpal/dsa-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -339,6 +342,7 @@ This repository contains solutions of various DSA Questions.
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saatviknagpal/dsa-practice/tree/master/1127-last-stone-weight) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/saatviknagpal/dsa-practice/tree/master/1928-number-of-orders-in-the-backlog) |
 ## Design
@@ -469,6 +473,7 @@ This repository contains solutions of various DSA Questions.
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saatviknagpal/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
 |  |
 | ------- |
@@ -486,6 +491,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
@@ -537,4 +543,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
