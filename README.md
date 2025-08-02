@@ -25,6 +25,7 @@ This repository contains solutions of various DSA Questions.
 | [0073-set-matrix-zeroes](https://github.com/saatviknagpal/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saatviknagpal/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saatviknagpal/dsa-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/saatviknagpal/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saatviknagpal/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -432,6 +433,7 @@ This repository contains solutions of various DSA Questions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/saatviknagpal/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/saatviknagpal/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
@@ -567,4 +569,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saatviknagpal/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
