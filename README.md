@@ -161,6 +161,7 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saatviknagpal/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saatviknagpal/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/saatviknagpal/dsa-practice/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
@@ -246,6 +247,7 @@ This repository contains solutions of various DSA Questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saatviknagpal/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -388,6 +390,7 @@ This repository contains solutions of various DSA Questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saatviknagpal/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saatviknagpal/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0053-maximum-subarray) |
