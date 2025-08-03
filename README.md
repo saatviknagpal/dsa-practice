@@ -81,6 +81,7 @@ This repository contains solutions of various DSA Questions.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saatviknagpal/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/saatviknagpal/dsa-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repository contains solutions of various DSA Questions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/saatviknagpal/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saatviknagpal/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saatviknagpal/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
@@ -264,6 +266,7 @@ This repository contains solutions of various DSA Questions.
 | [0238-product-of-array-except-self](https://github.com/saatviknagpal/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
 |  |
@@ -299,6 +302,7 @@ This repository contains solutions of various DSA Questions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saatviknagpal/dsa-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saatviknagpal/dsa-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -394,6 +398,7 @@ This repository contains solutions of various DSA Questions.
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting Sort
 |  |
 | ------- |
@@ -546,6 +551,7 @@ This repository contains solutions of various DSA Questions.
 ## Enumeration
 |  |
 | ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
