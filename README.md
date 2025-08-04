@@ -50,6 +50,7 @@ This repository contains solutions of various DSA Questions.
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
@@ -174,6 +175,7 @@ This repository contains solutions of various DSA Questions.
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/saatviknagpal/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/saatviknagpal/dsa-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0778-reorganize-string) |
@@ -205,6 +207,7 @@ This repository contains solutions of various DSA Questions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
+| [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saatviknagpal/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/saatviknagpal/dsa-practice/tree/master/0695-max-area-of-island) |
@@ -225,6 +228,7 @@ This repository contains solutions of various DSA Questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/saatviknagpal/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0658-find-k-closest-elements) |
@@ -404,6 +408,7 @@ This repository contains solutions of various DSA Questions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
@@ -490,6 +495,7 @@ This repository contains solutions of various DSA Questions.
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saatviknagpal/dsa-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
 | ------- |
