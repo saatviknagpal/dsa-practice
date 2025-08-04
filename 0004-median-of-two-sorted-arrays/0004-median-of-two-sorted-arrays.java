@@ -1,40 +1,48 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int n = nums1.length;
+        int m = nums2.length;
+        int len = n + m;
 
-        if (nums1.length > nums2.length) {
+        if (n > m)
             return findMedianSortedArrays(nums2, nums1);
-        }
 
-        int m = nums1.length;
-        int n = nums2.length;
-        int total = m + n;
-        int half = (total + 1) / 2;
+        int low = 0;
+        int high = n;
+        int left = (n + m + 1) / 2;
+        while (low <= high) {
+            int mid1 = low + (high - low) / 2;
+            int mid2 = left - mid1;
 
-        int left = 0;
-        int right = m;
+            int l1 = Integer.MIN_VALUE;
+            int l2 = Integer.MIN_VALUE;
+            int r1 = Integer.MAX_VALUE;
+            int r2 = Integer.MAX_VALUE;
 
-        while (left <= right) {
-            int i = (left + right) / 2;
-            int j = half - i;
+            if (mid1 < n)
+                r1 = nums1[mid1];
+            if (mid2 < m)
+                r2 = nums2[mid2];
+            if (mid1 - 1 >= 0)
+                l1 = nums1[mid1 - 1];
+            if (mid2 - 1 >= 0)
+                l2 = nums2[mid2 - 1];
 
-            int Aleft = (i == 0) ? Integer.MIN_VALUE : nums1[i - 1];
-            int Aright = (i == m) ? Integer.MAX_VALUE : nums1[i];
-            int Bleft = (j == 0) ? Integer.MIN_VALUE : nums2[j - 1];
-            int Bright = (j == n) ? Integer.MAX_VALUE : nums2[j];
+            if (l1 <= r2 && l2 <= r1) {
+                if (len % 2 == 1)
+                    return Math.max(l1, l2);
 
-            if (Aleft <= Bright && Bleft <= Aright) {
-                if (total % 2 == 0) {
-                    return (Math.max(Aleft, Bleft) + Math.min(Aright, Bright)) / 2.0;
-                } else {
-                    return Math.max(Aleft, Bleft);
-                }
-            } else if (Aleft > Bright) {
-                right = i - 1;
+                return (double) (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
+
+            }
+
+            else if(l1 > r2){
+                high = mid1 - 1;
             } else {
-                left = i + 1;
+                low = mid1 + 1;
             }
         }
 
-        return 0.0; // Should never reach here
+        return 0;
     }
 }
