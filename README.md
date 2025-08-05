@@ -53,6 +53,7 @@ This repository contains solutions of various DSA Questions.
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/saatviknagpal/dsa-practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/saatviknagpal/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -412,6 +413,7 @@ This repository contains solutions of various DSA Questions.
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0518-coin-change-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
