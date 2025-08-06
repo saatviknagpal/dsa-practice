@@ -1,27 +1,27 @@
 class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int n = image.length;
+        int m = image[0].length;
+        int origColor = image[sr][sc];
+        if (origColor == color) return image;
 
-    public int[][] floodFill(int[][] image, int sr, int sc, int newColor) { //bfs
         Queue<int[]> q = new LinkedList<>();
-        boolean[][] visited = new boolean[image.length][image[0].length];
-        int color = image[sr][sc];
-        q.add(new int[] { sr, sc });
-
+        q.offer(new int[] { sr, sc });
         while (!q.isEmpty()) {
-            int size = q.size();
+            int[] val = q.poll();
+            int i = val[0];
+            int j = val[1];
+            image[i][j] = color;
 
-            for (int i = 0; i < size; i++) {
-                int[] cur = q.poll();
-                int r = cur[0];
-                int c = cur[1];
+            int[][] directions = { { -1, 0 }, { 1, 0 }, { 0, -1 }, { 0, 1 } };
+            for (int[] dir : directions) {
 
-                if (image[r][c] == color && !visited[r][c]) {
-                    image[r][c] = newColor;
-                    visited[r][c] = true;
+                int new_i = i + dir[0];
+                int new_j = j + dir[1];
 
-                    if (r + 1 < image.length) q.add(new int[] { r + 1, c });
-                    if (r - 1 >= 0) q.add(new int[] { r - 1, c });
-                    if (c + 1 < image[0].length) q.add(new int[] { r, c + 1 });
-                    if (c - 1 >= 0) q.add(new int[] { r, c - 1 });
+                if (new_i >= 0 && new_i < n && new_j >= 0 && new_j < m && image[new_i][new_j] == origColor) {
+                    image[new_i][new_j] = color;
+                    q.offer(new int[] { new_i, new_j });
                 }
             }
         }
