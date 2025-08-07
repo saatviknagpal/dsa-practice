@@ -178,6 +178,7 @@ This repository contains solutions of various DSA Questions.
 | [0068-text-justification](https://github.com/saatviknagpal/dsa-practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/saatviknagpal/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
@@ -422,6 +423,7 @@ This repository contains solutions of various DSA Questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saatviknagpal/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/saatviknagpal/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/saatviknagpal/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -478,6 +480,7 @@ This repository contains solutions of various DSA Questions.
 | [0040-combination-sum-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/saatviknagpal/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/saatviknagpal/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/0813-all-paths-from-source-to-target) |
