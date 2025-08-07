@@ -85,6 +85,7 @@ This repository contains solutions of various DSA Questions.
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2502-sort-the-people](https://github.com/saatviknagpal/dsa-practice/tree/master/2502-sort-the-people) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saatviknagpal/dsa-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saatviknagpal/dsa-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saatviknagpal/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/saatviknagpal/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/saatviknagpal/dsa-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -325,6 +326,7 @@ This repository contains solutions of various DSA Questions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saatviknagpal/dsa-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saatviknagpal/dsa-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saatviknagpal/dsa-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sliding Window
 |  |
