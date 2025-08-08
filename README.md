@@ -35,6 +35,7 @@ This repository contains solutions of various DSA Questions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/saatviknagpal/dsa-practice/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/saatviknagpal/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ This repository contains solutions of various DSA Questions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saatviknagpal/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/saatviknagpal/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/saatviknagpal/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/saatviknagpal/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/saatviknagpal/dsa-practice/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -179,6 +181,7 @@ This repository contains solutions of various DSA Questions.
 | [0076-minimum-window-substring](https://github.com/saatviknagpal/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/saatviknagpal/dsa-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/saatviknagpal/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/saatviknagpal/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/saatviknagpal/dsa-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/saatviknagpal/dsa-practice/tree/master/0399-evaluate-division) |
@@ -424,6 +427,7 @@ This repository contains solutions of various DSA Questions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/saatviknagpal/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/saatviknagpal/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/saatviknagpal/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -517,6 +521,7 @@ This repository contains solutions of various DSA Questions.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/saatviknagpal/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/saatviknagpal/dsa-practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saatviknagpal/dsa-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -525,6 +530,7 @@ This repository contains solutions of various DSA Questions.
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/saatviknagpal/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0140-word-break-ii) |
 ## Graph
 |  |
