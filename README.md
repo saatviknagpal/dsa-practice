@@ -70,6 +70,7 @@ This repository contains solutions of various DSA Questions.
 | [0739-daily-temperatures](https://github.com/saatviknagpal/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/saatviknagpal/dsa-practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/saatviknagpal/dsa-practice/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/saatviknagpal/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/saatviknagpal/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -322,6 +323,7 @@ This repository contains solutions of various DSA Questions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/saatviknagpal/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saatviknagpal/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/saatviknagpal/dsa-practice/tree/master/0384-shuffle-an-array) |
+| [0909-stone-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/saatviknagpal/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saatviknagpal/dsa-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saatviknagpal/dsa-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -445,6 +447,7 @@ This repository contains solutions of various DSA Questions.
 | [0472-concatenated-words](https://github.com/saatviknagpal/dsa-practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0518-coin-change-ii) |
+| [0909-stone-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0909-stone-game) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -651,4 +654,8 @@ This repository contains solutions of various DSA Questions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saatviknagpal/dsa-practice/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
