@@ -81,6 +81,7 @@ This repository contains solutions of various DSA Questions.
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/saatviknagpal/dsa-practice/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1272-invalid-transactions](https://github.com/saatviknagpal/dsa-practice/tree/master/1272-invalid-transactions) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saatviknagpal/dsa-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/saatviknagpal/dsa-practice/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saatviknagpal/dsa-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/saatviknagpal/dsa-practice/tree/master/2169-simple-bank-system) |
@@ -279,6 +280,7 @@ This repository contains solutions of various DSA Questions.
 | [0733-flood-fill](https://github.com/saatviknagpal/dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/saatviknagpal/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/saatviknagpal/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saatviknagpal/dsa-practice/tree/master/1628-count-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -374,6 +376,7 @@ This repository contains solutions of various DSA Questions.
 | [0735-asteroid-collision](https://github.com/saatviknagpal/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saatviknagpal/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saatviknagpal/dsa-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saatviknagpal/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Binary Search
 |  |
@@ -450,6 +453,7 @@ This repository contains solutions of various DSA Questions.
 | [0518-coin-change-ii](https://github.com/saatviknagpal/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0909-stone-game](https://github.com/saatviknagpal/dsa-practice/tree/master/0909-stone-game) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/saatviknagpal/dsa-practice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saatviknagpal/dsa-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saatviknagpal/dsa-practice/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/saatviknagpal/dsa-practice/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting Sort
@@ -621,6 +625,7 @@ This repository contains solutions of various DSA Questions.
 | [0084-largest-rectangle-in-histogram](https://github.com/saatviknagpal/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saatviknagpal/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/saatviknagpal/dsa-practice/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/saatviknagpal/dsa-practice/tree/master/1628-count-submatrices-with-all-ones) |
 ## Enumeration
 |  |
 | ------- |
